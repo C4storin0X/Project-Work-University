@@ -1,11 +1,11 @@
-## Project work 
+# Project work 
 This repository contains my university project work for the degree in computer science. 
 
-#Title
+## Title
 Methodologies and practices for proper risk assessment
 
 
-# Contents
+## Contents
 
 - HTML page
 - CSS file 
