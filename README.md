@@ -1,13 +1,13 @@
-# Sicurezza sul Lavoro
+# Project work 
+This repository contains my university project work for the degree in computer science.
 
-Questo progetto ha lo scopo di sensibilizzare e informare sulla sicurezza nei luoghi di lavoro.
 
-## Contenuto
+## Contents
 
-- Pagina HTML introduttiva
-- Stile CSS personalizzato
-- Immagini e logo
+- HTML page
+- CSS file 
+- Logo and Immages 
 
-## Obiettivi
+## Development of computer security software
 
-Trasmettere le buone pratiche per un ambiente lavorativo sano e sicuro.
+
