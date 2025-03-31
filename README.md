@@ -5,7 +5,7 @@ This repository contains my university project work for the degree in computer s
 Methodologies and practices for proper risk assessment
 
 
-## Contents
+## :floppy_disk: Contents
 
 - HTML page
 - CSS file 
