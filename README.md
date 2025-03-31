@@ -1,4 +1,4 @@
-# Project work 
+# :open_book: Project work 
 This repository contains my university project work for the degree in computer science. 
 
 ## Title
